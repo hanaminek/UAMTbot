@@ -1,6 +1,3 @@
-# display.py - Display control library
-# Author: David Hanák
-#
 # This library depends on sh1106.py library by Robert Hammelrath (https://github.com/robert-hh/SH1106)
 # which is distributed under the MIT License (see the attached LICENSE_sh1106.txt file)
 
